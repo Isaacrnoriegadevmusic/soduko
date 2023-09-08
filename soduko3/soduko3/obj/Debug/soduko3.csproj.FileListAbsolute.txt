@@ -1,0 +1,7 @@
+C:\Users\irn07\source\repos\soduko3\soduko3\obj\Debug\soduko3.csproj.AssemblyReference.cache
+C:\Users\irn07\source\repos\soduko3\soduko3\obj\Debug\soduko3.csproj.CoreCompileInputs.cache
+C:\Users\irn07\source\repos\soduko3\soduko3\bin\Debug\soduko3.exe.config
+C:\Users\irn07\source\repos\soduko3\soduko3\bin\Debug\soduko3.exe
+C:\Users\irn07\source\repos\soduko3\soduko3\bin\Debug\soduko3.pdb
+C:\Users\irn07\source\repos\soduko3\soduko3\obj\Debug\soduko3.exe
+C:\Users\irn07\source\repos\soduko3\soduko3\obj\Debug\soduko3.pdb
